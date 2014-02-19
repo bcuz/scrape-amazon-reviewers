@@ -1,1 +1,1 @@
-Janky python crawler/scraper that used to be able to collect the emails of the first 90 pages of the Amazon top 10000 reviewers.
+Janky python crawler/scraper that used to be able to collect the emails of the Amazon top 10,000 reviewers.
